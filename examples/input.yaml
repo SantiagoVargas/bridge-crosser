@@ -1,0 +1,16 @@
+- bridgeLengthFt: 100
+  newHikers:
+    - speedFtPerMinute: 100
+    - speedFtPerMinute: 50
+    - speedFtPerMinute: 20
+    - speedFtPerMinute: 10
+# 19 mins
+- bridgeLengthFt: 250
+  newHikers:
+    - speedFtPerMinute: 2.5
+# 150 mins
+- bridgeLengthFt: 150
+  newHikers:
+    - speedFtPerMinute: 25
+    - speedFtPerMinute: 15
+# 109 mins
